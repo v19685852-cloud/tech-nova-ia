@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tech Nova IA</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background: #222;
+      color: #fff;
+      padding: 1rem;
+      text-align: center;
+    }
+
+    main {
+      padding: 2rem;
+      text-align: center;
+    }
+
+    footer {
+      margin-top: 3rem;
+      background: #f1f1f1;
+      color: #555;
+      text-align: center;
+      padding: 0.8rem;
+      font-size: 0.85rem;
+    }
+
+    footer span {
+      display: block;
+      font-size: 0.75rem;
+      color: #777;
+      margin-top: 0.3rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Tech Nova IA</h1>
+    <p>Bem-vindo ao nosso primeiro chat de IA</p>
+  </header>
+
+  <main>
+    <h2>Chat em Construção</h2>
+    <p>Em breve você poderá conversar com nossa IA aqui 🚀</p>
+  </main>
+
+  <footer>
+    <p>© 2025 Tech Nova IA</p>
+    <span>Fundadores: Otto Monteiro (líder), Thayuan, Lucas, Arthur</span>
+  </footer>
+</body>
+</html>
